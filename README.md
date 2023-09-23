@@ -26,3 +26,4 @@ created a password generator using  HTML , CSS , JAVASCRIPT . create any passwor
   <li>used event listener of r giving the command to the webpage  specially for generating the password .</li>
   <li>used function and string manipulation in the process of generating password .</li>
 </ul>
+<h3>visit site at : https://nikhilendra1234.github.io/Password_Generator/ </h3>
